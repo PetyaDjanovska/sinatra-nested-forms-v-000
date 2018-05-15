@@ -20,7 +20,6 @@ module FormsLab
       #
       # @ships = Ship.all
        erb :"pirates/new"
-      "GTratatat"
     end
 
   end

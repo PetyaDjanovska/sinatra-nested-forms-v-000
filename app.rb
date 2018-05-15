@@ -20,6 +20,7 @@ module FormsLab
       #
       # @ships = Ship.all
       # erb :new
+      "GTratatat"
     end
 
   end
